@@ -1,6 +1,6 @@
-👋 Hello, I'm E CharanGoud
+👋 Hello, I'm  CharanGoud
 
-    🎯 Aspiring Machine Software Engineering 
+    🎯 Aspiring Software Engineering 
     👀 Interested in Web Development and AI
     🌱 Currently learning Mearn Stack 
     🧠 Practicing Data Structures and Algorithms in Java
